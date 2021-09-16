@@ -43,6 +43,6 @@ void main()
 // Plan de test
 //                  nombre                      |         Écran
 //   7, 60, 87 ,12, 3, 0, 56, 85, 9, 10         |  Le plus grand nombre est : 87
-//   0, 0, 0, 0, 0, 0, 0, 0, 0, 0               |  Le plus grand nombre est : 0
+//   0, 0.5, 0, 0, 0, 0, 0, 0, 0, 0             |  Le plus grand nombre est : 0
 //  780, 862, 1090, 9, 2, 8075, 9134, 0, 134, 78|  Le plus grand nombre est : 9134
 //  -5, 0, -349, -90, 2, -67, -10, -76, 12, -903|  Le plus grand nombre est : 12
